@@ -1,8 +1,7 @@
 # parameters
-ARG REPO_NAME="<REPO_NAME_HERE>"
-ARG DESCRIPTION="<DESCRIPTION_HERE>"
-ARG MAINTAINER="<YOUR_FULL_NAME> (<YOUR_EMAIL_ADDRESS>)"
-# pick an icon from: https://fontawesome.com/v4.7.0/icons/
+ARG REPO_NAME="duckiebot_project"
+ARG DESCRIPTION="Project that lets duckiebot follow lanes and automatically stop when it encounters red line."
+ARG MAINTAINER="Group of 5"
 ARG ICON="cube"
 
 # ==================================================>
